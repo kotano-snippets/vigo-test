@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Витя",
+    "gender": "М",
+    "item": "Книга",
+    "quantity": 3,
+    "price": 900,
+    "age": 21,
+    "hobby": "Музыка"
+  },
+  {
+    "name": "Маша",
+    "gender": "Ж",
+    "item": "Кроссовки",
+    "quantity": 1,
+    "price": 3500,
+    "age": 27,
+    "hobby": "Плавание"
+  },
+  {
+    "name": "Серёжа",
+    "gender": "М",
+    "item": "Гитара",
+    "quantity": 1,
+    "price": 2000,
+    "age": 21,
+    "hobby": "Воллейбол"
+  },
+  {
+    "name": "Артём",
+    "gender": "М",
+    "item": "Телефон",
+    "quantity": 1,
+    "price": 4000,
+    "age": 24,
+    "hobby": "Плавание"
+  }
+]
